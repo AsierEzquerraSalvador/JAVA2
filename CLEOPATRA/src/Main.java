@@ -37,7 +37,7 @@ public class Main {
                 System.out.println("EMPATE");
             }
         }
-        // APLICO LOS MÁXIMOS Y MÍNIMOS
+
 
     }
 }
